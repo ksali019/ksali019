@@ -24,5 +24,5 @@ I'm interested in software engineering, IT support, cybersecurity, systems, data
 ## Contact
 
 - Email: ksali019@fiu.edu
-- Portfolio: file:///C:/Users/Kevin/Downloads/kevin-salinas-portfolio/kevin-salinas-portfolio/index.html
+- Portfolio: https://ksali019.github.io/kevin-salinas-portfolio/
 - LinkedIn: https://www.linkedin.com/in/ksali019/
